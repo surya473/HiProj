@@ -7,6 +7,7 @@ public class HiWorld {
 			System.out.println("change committed");
 			System.out.println("last");
 			System.out.println(".........");
+			System.out.println("new change");
 	}
 
 }
